@@ -29,7 +29,7 @@ namespace Wallet
             services.AddDbContext<ApplicationContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddIdentity<User, IdentityRole>()
+            services.AddIdentity<Account, IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationContext>();
 
             services.AddControllersWithViews();

@@ -13,7 +13,7 @@ namespace Wallet.Models
         public Guid UserId { get; set; }
         public Guid CurrencyId { get; set; }
 
-        public User User { get; set; }
+        public UserProfile UserProfile { get; set; }
         public Currency Currency { get; set; }
         public ICollection<ExpensesTransaction> ExpensesTransactions { get; set; }
         public ICollection<ProfitTransaction> ProfitTransactions { get; set; }

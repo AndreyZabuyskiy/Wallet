@@ -8,6 +8,6 @@ namespace Wallet.Models
 {
     public class Account : IdentityUser
     {
-        public User User { get; set; }
+        public UserProfile UserProfile { get; set; }
     }
 }
