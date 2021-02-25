@@ -81,3 +81,4 @@ D:\Программирование\Приложения\Wallet\Wallet\obj\Debug
 D:\Программирование\Приложения\Wallet\Wallet\obj\Debug\netcoreapp3.1\Wallet.dll
 D:\Программирование\Приложения\Wallet\Wallet\obj\Debug\netcoreapp3.1\Wallet.pdb
 D:\Программирование\Приложения\Wallet\Wallet\obj\Debug\netcoreapp3.1\Wallet.genruntimeconfig.cache
+D:\Программирование\Приложения\Wallet\Wallet\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
